@@ -2,11 +2,11 @@
 
 ## **Idiomatic code**
 
-Format the code
+Format the code  
 `cargo fmt`
 
 
-Compile and check for problems
+Compile and check for problems  
 `cargo clippy`
 
 ---
